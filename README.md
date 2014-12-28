@@ -6,17 +6,20 @@ macos_setup
   brew tap phinze/homebrew-cask   
   brew install brew-cask   
 3. Then install the following apps in brand new Mac   
-  ###Software:     
+  #### Software:     
   brew cask install tunnelblick   
   brew cask install skype   
   brew cask install alfred   
   brew cask install dropbox   
   brew cask install mou   
-  ###Dev tool:   
+  #### Dev tool:   
   brew cask install iterm2   
   brew cask install source-tree   
   brew cask install virtualbox   
   brew cask install vagrant   
+  brew cask install node   
+  sudo npm install -g bower   
+  sudo npm install -g grunt-cli   
 
 ## Setup authentication, authorization
 1. Copy RSA key from the old to new Mac   
