@@ -14,7 +14,7 @@ macos_setup
   brew cask install mou   
   #### Dev tool:   
   brew cask install iterm2   
-  brew cask install source-tree   
+  brew cask install sourcetree   
   brew cask install virtualbox   
   brew cask install vagrant   
   brew cask install node   
