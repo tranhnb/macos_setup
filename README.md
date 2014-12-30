@@ -28,5 +28,5 @@ macos_setup
 1. Copy RSA key from the old to new Mac   
 2. Run ssh add private_key   
     
-  
+## Install plug-in on SublimeText: TBD  
   
