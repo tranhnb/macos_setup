@@ -12,6 +12,7 @@ macos_setup
   brew cask install alfred   
   brew cask install dropbox   
   brew cask install mou   
+  brew cask install evernote
   #### Dev tool:   
   brew cask install iterm2   
   brew cask install sourcetree   
