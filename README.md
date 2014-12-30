@@ -12,15 +12,17 @@ macos_setup
   brew cask install alfred   
   brew cask install dropbox   
   brew cask install mou   
-  brew cask install evernote
+  brew cask install evernote   
   #### Dev tool:   
   brew cask install iterm2   
   brew cask install sourcetree   
   brew cask install virtualbox   
   brew cask install vagrant   
   brew cask install node   
+  brew cask install pgadmin3   
   sudo npm install -g bower   
   sudo npm install -g grunt-cli   
+  
 
 ## Setup authentication, authorization
 1. Copy RSA key from the old to new Mac   
