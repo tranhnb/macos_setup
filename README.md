@@ -28,5 +28,8 @@ macos_setup
 1. Copy RSA key from the old to new Mac   
 2. Run ssh add private_key   
     
-## Install plug-in on SublimeText: TBD  
+## Install plug-in on SublimeText   
+1. Instal package control plugin:   
+  https://packagecontrol.io/installation#st2   
+2. https://github.com/dreadatour/Flake8Lint   
   
