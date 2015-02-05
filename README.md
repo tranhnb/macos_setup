@@ -31,5 +31,6 @@ macos_setup
 ## Install plug-in on SublimeText   
 1. Instal package control plugin:   
   https://packagecontrol.io/installation#st2   
-2. https://github.com/dreadatour/Flake8Lint   
+2. Python coding styles and validation:   
+  https://github.com/dreadatour/Flake8Lint   
   
