@@ -34,3 +34,9 @@ macos_setup
 2. Python coding styles and validation:   
   https://github.com/dreadatour/Flake8Lint   
   
+## Iterm plugin and themes   
+1. Theme:  
+   ZSH_THEME=“doubleend"   
+    https://github.com/davekonopka/dotfiles/tree/master/oh-my-zsh/themes
+2. Oh my zh
+
