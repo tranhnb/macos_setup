@@ -20,6 +20,8 @@ macos_setup
   brew cask install vagrant   
   brew cask install node   
   brew cask install pgadmin3   
+  brew cask install visual-studio-code   
+  brew cask install gitkraken   
   sudo npm install -g bower   
   sudo npm install -g grunt-cli   
   
